@@ -1,0 +1,51 @@
+[ "java.util.ArrayList", [ {
+  "@class" : "Economica",
+  "cantidadCamas" : 3,
+  "numeroHabitacion" : "1",
+  "estado" : "DISPONIBLE",
+  "ventilador" : false
+}, {
+  "@class" : "Economica",
+  "cantidadCamas" : 1,
+  "numeroHabitacion" : "2",
+  "estado" : "DISPONIBLE",
+  "ventilador" : true
+}, {
+  "@class" : "Estandar",
+  "cantidadCamas" : 2,
+  "numeroHabitacion" : "3",
+  "estado" : "DISPONIBLE",
+  "aireAcondicionado" : true,
+  "bañera" : true,
+  "frigobar" : true,
+  "vistaAlMar" : true
+}, {
+  "@class" : "Estandar",
+  "cantidadCamas" : 4,
+  "numeroHabitacion" : "4",
+  "estado" : "DISPONIBLE",
+  "aireAcondicionado" : true,
+  "bañera" : true,
+  "frigobar" : true,
+  "vistaAlMar" : false
+}, {
+  "@class" : "Premium",
+  "cantidadCamas" : 3,
+  "numeroHabitacion" : "5",
+  "estado" : "DISPONIBLE",
+  "jaccuzzi" : true,
+  "vistaAlMar" : false,
+  "aireAcondicionado" : true,
+  "bañera" : true,
+  "frigobar" : true
+}, {
+  "@class" : "Premium",
+  "cantidadCamas" : 2,
+  "numeroHabitacion" : "6",
+  "estado" : "DISPONIBLE",
+  "jaccuzzi" : true,
+  "vistaAlMar" : true,
+  "aireAcondicionado" : true,
+  "bañera" : false,
+  "frigobar" : true
+} ] ]
