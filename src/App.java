@@ -8,3 +8,24 @@ public class App {
 
     }
 }
+
+
+
+///hotel/=gestora
+///     ├── usuarios/
+///     ├── habitaciones/
+///     ├── reservas/
+///     ├── consumos/
+///     ├── enums/
+///     ├── excepciones/
+///     ├── genericos/
+///     └── interfaces/
+///         json.
+
+
+
+
+/// CONSTRUCTORES.
+/// GETTERS Y SETTERS.
+/// METODOS.
+///TO STRINGS.
